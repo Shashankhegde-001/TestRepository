@@ -1,0 +1,6 @@
+C:\Users\shashanka.hegde\Downloads\CRUD.ASPCore.Angular.WebAPI.EF-master\CRUD.ASPCore.Angular.WebAPI.EF-master\EFNgApp\SampleDatabase\bin\Debug\SampleDatabase.dacpac
+C:\Users\shashanka.hegde\Downloads\CRUD.ASPCore.Angular.WebAPI.EF-master\CRUD.ASPCore.Angular.WebAPI.EF-master\EFNgApp\SampleDatabase\bin\Debug\SampleDatabase.dll
+C:\Users\shashanka.hegde\Downloads\CRUD.ASPCore.Angular.WebAPI.EF-master\CRUD.ASPCore.Angular.WebAPI.EF-master\EFNgApp\SampleDatabase\bin\Debug\SampleDatabase.pdb
+C:\Users\shashanka.hegde\Downloads\CRUD.ASPCore.Angular.WebAPI.EF-master\CRUD.ASPCore.Angular.WebAPI.EF-master\EFNgApp\SampleDatabase\obj\Debug\SampleDatabase.sqlprojAssemblyReference.cache
+C:\Users\shashanka.hegde\Downloads\CRUD.ASPCore.Angular.WebAPI.EF-master\CRUD.ASPCore.Angular.WebAPI.EF-master\EFNgApp\SampleDatabase\obj\Debug\SampleDatabase.dll
+C:\Users\shashanka.hegde\Downloads\CRUD.ASPCore.Angular.WebAPI.EF-master\CRUD.ASPCore.Angular.WebAPI.EF-master\EFNgApp\SampleDatabase\obj\Debug\SampleDatabase.pdb

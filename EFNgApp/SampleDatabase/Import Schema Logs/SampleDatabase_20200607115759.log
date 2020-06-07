@@ -1,0 +1,82 @@
+2020-06-07 17:27:59	This log contains information about the import schema operation into project 'SampleDatabase' on computer 'PRO-LP095' by user 'Shashanka.hegde'.
+2020-06-07 17:27:59	Import of database schema has started.
+2020-06-07 17:28:05	Gathering database credentials
+2020-06-07 17:28:05	Gathering database options
+2020-06-07 17:28:05	Gathering users
+2020-06-07 17:28:05	Gathering roles
+2020-06-07 17:28:05	Gathering application roles
+2020-06-07 17:28:05	Gathering role memberships
+2020-06-07 17:28:05	Gathering filegroups
+2020-06-07 17:28:05	Gathering full-text catalogs
+2020-06-07 17:28:05	Gathering assemblies
+2020-06-07 17:28:05	Gathering certificates
+2020-06-07 17:28:05	Gathering asymmetric keys
+2020-06-07 17:28:05	Gathering symmetric keys
+2020-06-07 17:28:05	Gathering encrypted symmetric keys
+2020-06-07 17:28:05	Gathering schemas
+2020-06-07 17:28:05	Gathering XML schema collections
+2020-06-07 17:28:05	Gathering user-defined data types
+2020-06-07 17:28:05	Gathering user-defined types
+2020-06-07 17:28:05	Gathering table types
+2020-06-07 17:28:05	Gathering unique keys for table types
+2020-06-07 17:28:05	Gathering primary keys for table types
+2020-06-07 17:28:05	Gathering indexes for table types
+2020-06-07 17:28:05	Gathering check constraints for table types
+2020-06-07 17:28:05	Gathering default constraints for table types
+2020-06-07 17:28:05	Gathering partition functions
+2020-06-07 17:28:05	Gathering partition schemes
+2020-06-07 17:28:05	Gathering functions
+2020-06-07 17:28:05	Gathering encrypted functions
+2020-06-07 17:28:05	Gathering aggregates
+2020-06-07 17:28:05	Gathering procedures
+2020-06-07 17:28:05	Gathering encrypted procedures
+2020-06-07 17:28:05	Gathering tables
+2020-06-07 17:28:05	Gathering primary keys
+2020-06-07 17:28:05	Gathering unique constraints
+2020-06-07 17:28:05	Gathering foreign keys
+2020-06-07 17:28:05	Gathering default constraints
+2020-06-07 17:28:05	Gathering check constraints
+2020-06-07 17:28:05	Gathering views
+2020-06-07 17:28:05	Gathering encrypted views
+2020-06-07 17:28:05	Gathering indexes
+2020-06-07 17:28:06	Gathering statistics
+2020-06-07 17:28:06	Gathering full-text index stoplists
+2020-06-07 17:28:06	Gathering search property lists
+2020-06-07 17:28:06	Gathering search properties
+2020-06-07 17:28:06	Gathering full-text indexes
+2020-06-07 17:28:06	Gathering column store indexes
+2020-06-07 17:28:06	Gathering spatial indexes
+2020-06-07 17:28:06	Gathering XML indexes
+2020-06-07 17:28:06	Gathering Selective XML indexes
+2020-06-07 17:28:06	Gathering encrypted triggers
+2020-06-07 17:28:06	Gathering triggers
+2020-06-07 17:28:06	Gathering encrypted and clr ddl triggers
+2020-06-07 17:28:06	Gathering ddl triggers
+2020-06-07 17:28:06	Gathering synonyms
+2020-06-07 17:28:06	Gathering defaults
+2020-06-07 17:28:06	Gathering data constraint uddt bindings
+2020-06-07 17:28:06	Gathering rules
+2020-06-07 17:28:06	Gathering data constraint uddt bindings
+2020-06-07 17:28:06	Gathering message types
+2020-06-07 17:28:06	Gathering queues
+2020-06-07 17:28:06	Gathering contracts
+2020-06-07 17:28:06	Gathering services
+2020-06-07 17:28:06	Gathering event notifications
+2020-06-07 17:28:06	Gathering remote service bindings
+2020-06-07 17:28:06	Gathering broker priorities
+2020-06-07 17:28:06	Gathering signatures
+2020-06-07 17:28:06	Gathering data compression options
+2020-06-07 17:28:06	Gathering sequence types
+2020-06-07 17:28:06	Gathering security policies
+2020-06-07 17:28:06	Gather column encryption keys
+2020-06-07 17:28:06	Gathering column master keys
+2020-06-07 17:28:06	Gathering external data sources
+2020-06-07 17:28:06	Gathering external file formats
+2020-06-07 17:28:06	Gathering external tables
+2020-06-07 17:28:06	Gathering extended properties
+2020-06-07 17:28:06	Gathering credentials
+2020-06-07 17:28:06	Gathering logins
+2020-06-07 17:28:06	Gathering server audits
+2020-06-07 17:28:06	Finished importing database.
+2020-06-07 17:28:06	A summary of the import was saved to the following location: C:\Users\shashanka.hegde\Downloads\CRUD.ASPCore.Angular.WebAPI.EF-master\CRUD.ASPCore.Angular.WebAPI.EF-master\EFNgApp\SampleDatabase\Import Schema Logs\SampleDatabase_20200607115759.log
+2020-06-07 17:28:06	Click Finish to continue...
